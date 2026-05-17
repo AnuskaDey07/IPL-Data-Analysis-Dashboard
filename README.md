@@ -1,14 +1,14 @@
 # IPL-Data-Analysis-Dashboard
 IPL Data Analysis Dashboard using AWS S3,Snowflake and Power BI
 
-Technologies Used
+## Technologies Used
 - AWS S3
 - Snowflake
 - SQL
 - Power BI
 - GitHub
 
-Workflow
+## Workflow
 CSV → AWS S3 → Snowflake → SQL → Power BI → Dashboard
 Features
 - Orange Cap
@@ -18,7 +18,7 @@ Features
 - Most Fours
 - Most Sixes
 - Interactive Dashboard
-- 
-Future Scope
+  
+## Future Scope
 - Real-time IPL analysis
 - Machine learning predictions
